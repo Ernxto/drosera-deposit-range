@@ -1,0 +1,8 @@
+[trap]
+response_contract = "0xYourTrapAddress"
+response_function = "respond(bytes)"
+rpc_url = "https://mainnet.infura.io/v3/your_key"
+private_key = "your_private_key"
+
+[whitelist]
+enabled = false
